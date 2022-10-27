@@ -1,1 +1,2 @@
+! Protect from DPI
 @@||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$domain=1412.rest
